@@ -16,7 +16,7 @@ This Repository includes 4 directories: "code", "data", "model", and "plots".
 - data preprocessing.ipynb: Code for data preprocessing on the training data set from 2016 Jan to 2020 Sep.
 - final_model_dnn.ipynb: Code for dnn model prediction
 - final_model_xgboost.ipynb: Code for XGBoost model with prediction results
-- model_dnn_tuning.ipynb: Code of model tuning with dnn model
+- final_model_dnn_tuning.ipynb: Code of model tuning with dnn model
 -  word embedding.ipynb: Code of generating word2vec word embedding data
 ## Data
 
