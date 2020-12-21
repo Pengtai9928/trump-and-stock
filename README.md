@@ -4,6 +4,13 @@
 This project explores possible implementations of text mining such as topic modelling and sentiment analysis on President Donald Trump’s tweets to predict the impact on various indices of the US stock market such as S&P 500, DJIA and VIX. This repository contains the back-end code, data, and the results for the analysis. 
 
 
+<br>
+
+[![Screenshot-2020-12-21-at-4-35-09-PM.png](https://i.postimg.cc/PqRKcK3Q/Screenshot-2020-12-21-at-4-35-09-PM.png)](https://postimg.cc/t1FhndHs)
+
+</br>
+
+
 # Directories in this repository
 
 This Repository includes 4 directories: "code", "data", "model", and "plots". 
